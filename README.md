@@ -1,10 +1,10 @@
 # telecom-revenue-statistical-analysis
-##📄 **Descripción del Proyecto**
+## 📄 **Descripción del Proyecto**
 Este proyecto se enfoca en el análisis de rentabilidad y comportamiento del consumidor para Megaline, un operador de telecomunicaciones. El desafío principal fue determinar cuál de las dos tarifas prepago (Surf y Ultimate) genera mayores ingresos, permitiendo al departamento comercial optimizar su presupuesto publicitario.
 
 A través del análisis de consumo de 500 clientes (llamadas, SMS y datos), apliqué técnicas de estadística inferencial para validar si las diferencias observadas en los ingresos eran resultado de patrones reales o del azar.
 
-##🛠️ **Lo que hice (Habilidades Técnicas)**
+## 🛠️ **Lo que hice (Habilidades Técnicas)**
 ETL y Consolidación de Datos: Procesé y uní 4 fuentes de datos independientes para generar un perfil de consumo mensual detallado por usuario.
 
 Ingeniería de Características: Calculé métricas clave como el exceso de consumo por servicio (GB, minutos, mensajes) y los ingresos mensuales finales aplicando las reglas de cada plan.
@@ -17,7 +17,7 @@ Ejecuté pruebas t-student para comparar los ingresos promedio entre ambos plane
 
 Evalué la diferencia de ingresos entre usuarios de la región NY-NJ frente al resto de las ciudades para segmentar el mercado.
 
-##💡 **Conclusiones Estratégicas**
+## 💡**Conclusiones Estratégicas**
 Plan Surf como motor de ingresos variables: Aunque el plan Surf tiene una tarifa base menor, los usuarios tienden a exceder sus límites con frecuencia, generando ingresos adicionales significativos por GB extra.
 
 Estabilidad del Plan Ultimate: Los usuarios de Ultimate casi nunca exceden sus límites, lo que proporciona ingresos constantes y predecibles, pero con menor "upselling".
